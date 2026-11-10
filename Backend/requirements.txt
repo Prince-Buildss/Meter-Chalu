@@ -1,0 +1,7 @@
+livekit-agents[silero]~=1.8
+livekit-plugins-gnani
+livekit-plugins-google
+livekit-plugins-silero
+livekit-plugins-ai-coustics   # optional, noise suppression (same one used in Jarvis)
+python-dotenv
+zep-cloud
