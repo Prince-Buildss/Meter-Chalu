@@ -1,0 +1,6 @@
+{
+  "name": "Meter Chalu",
+  "description": "Hands-free Marathi practice voice coach for auto and taxi drivers in Maharashtra. भाषा चालू, मीटर चालू!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
